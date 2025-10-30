@@ -7,8 +7,10 @@ client/yarn-error.log*
 client/pnpm-debug.log*
 client/lerna-debug.log*
 
+client/.env
 client/node_modules
 client/dist
+client/build
 client/dist-ssr
 client/*.local
 
