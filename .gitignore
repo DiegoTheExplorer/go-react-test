@@ -11,6 +11,7 @@ client/.env
 client/node_modules
 client/dist
 client/build
+client/tmp
 client/dist-ssr
 client/*.local
 
